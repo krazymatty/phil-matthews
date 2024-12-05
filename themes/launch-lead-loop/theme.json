@@ -169,7 +169,7 @@
 				{
 					"name": "Oswald",
 					"slug": "oswald",
-					"fontFamily": "\"Fira Code\", monospace",
+					"fontFamily": "\"Oswald\", sans-serif",
 					"fontFace": [
 						{
 							"src": [
@@ -177,7 +177,7 @@
 							],
 							"fontWeight": "300 700",
 							"fontStyle": "normal",
-							"fontFamily": "\"Fira Code\""
+							"fontFamily": "\"Oswald\""
 						}
 					]
 				}
