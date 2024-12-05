@@ -1,0 +1,21 @@
+/*
+ Theme Name:     Launch Lead Loop
+ Theme URI:      https://philmatthews.net
+ Description:    A child theme for the Twenty Twenty-Five theme.
+ Author:         Phil Matthews
+ Author URI:     https://philmatthews.net
+ Template:       twentytwentyfive
+ Version:        1.0.0
+ License:        GNU General Public License v2 or later
+ License URI:    http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:           light, dark, two-columns, responsive-layout
+ Text Domain:    twentytwentyfive-child
+*/
+
+/* Import the parent theme's styles */
+@import url('../twentytwentyfive/style.css');
+
+/* Add your custom CSS here */
+body {
+    background-color: #f4f4f4;
+}
