@@ -158,7 +158,7 @@
 					"fontFace": [
 						{
 							"src": [
-								"file:./assets/fonts/manrope/Manrope-VariableFont_wght.woff2"
+								"file:./assets/fonts/open-sans/OpenSans-VariableFont_wght.woff2"
 							],
 							"fontWeight": "400 700",
 							"fontStyle": "normal",
