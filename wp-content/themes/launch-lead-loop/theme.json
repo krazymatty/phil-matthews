@@ -167,13 +167,13 @@
 					]
 				},
 				{
-					"name": "Fira Code",
-					"slug": "fira-code",
+					"name": "Oswald",
+					"slug": "oswald",
 					"fontFamily": "\"Fira Code\", monospace",
 					"fontFace": [
 						{
 							"src": [
-								"file:./assets/fonts/fira-code/FiraCode-VariableFont_wght.woff2"
+								"file:./assets/fonts/oswald/Oswald-VariableFont_wght.ttf"
 							],
 							"fontWeight": "300 700",
 							"fontStyle": "normal",
