@@ -143,10 +143,10 @@
 				{
 					"fluid": {
 						"max": "3rem",
-						"min": "2.15rem"
+						"min": "2.8125rem"
 					},
 					"name": "Extra Extra Large",
-					"size": "2.15rem",
+					"size": "2.8125rem",
 					"slug": "xx-large"
 				}
 			],
@@ -198,7 +198,7 @@
 			}
 		},
 		"typography": {
-			"fontFamily": "var:preset|font-family|manrope",
+			"fontFamily": "var:preset|font-family|open-sans",
 			"fontSize": "var:preset|font-size|large",
 			"fontWeight": "300",
 			"letterSpacing": "-0.1px",
@@ -241,7 +241,7 @@
 			},
 			"core/code": {
 				"typography": {
-					"fontFamily": "var:preset|font-family|fira-code",
+					"fontFamily": "var:preset|font-family|oswald",
 					"fontSize": "var:preset|font-size|medium",
 					"fontWeight": "300"
 				},
@@ -728,6 +728,11 @@
 			"name": "page-no-title",
 			"postTypes": ["page"],
 			"title": "Page No Title"
+		},
+		{
+			"name": "landing-page-no-title",
+			"postTypes": ["page"],
+			"title": "Landing Page No Title"
 		}
 	]
 }
