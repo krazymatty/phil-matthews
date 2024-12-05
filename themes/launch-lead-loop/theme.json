@@ -152,17 +152,17 @@
 			],
 			"fontFamilies": [
 				{
-					"name": "Manrope",
-					"slug": "manrope",
-					"fontFamily": "Manrope, sans-serif",
+					"name": "Open Sans",
+					"slug": "open-sans",
+					"fontFamily": "\"Open Sans\", sans-serif",
 					"fontFace": [
 						{
 							"src": [
 								"file:./assets/fonts/manrope/Manrope-VariableFont_wght.woff2"
 							],
-							"fontWeight": "200 800",
+							"fontWeight": "400 700",
 							"fontStyle": "normal",
-							"fontFamily": "Manrope"
+							"fontFamily": "\"Open Sans\""
 						}
 					]
 				},
@@ -175,7 +175,7 @@
 							"src": [
 								"file:./assets/fonts/oswald/Oswald-VariableFont_wght.ttf"
 							],
-							"fontWeight": "300 700",
+							"fontWeight": "400 700",
 							"fontStyle": "normal",
 							"fontFamily": "\"Oswald\""
 						}
