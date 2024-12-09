@@ -19,4 +19,9 @@
 body {
     background-color: #f4f4f4;
 }
-
+.scroll-to-top {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    z-index: 100;
+}
