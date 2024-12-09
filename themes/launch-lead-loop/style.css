@@ -19,20 +19,4 @@
 body {
     background-color: #f4f4f4;
 }
-.scroll-to-top {
-    position: fixed;
-    bottom: 2.25rem;
-    left: 50%
-    z-index: 100;
-    opacity: 0;
-    animation: fadeIn 0.5s forwards;
-    animation-delay: 5s;
-    }
-    @keyframes fadeIn{
-        to {
-            opacity: 1;
-        }
-    }
-    html {
-      scroll-behavior: smooth;
-    }
+
